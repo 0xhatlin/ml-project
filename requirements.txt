@@ -1,0 +1,17 @@
+# Core ML Libraries
+pandas==3.0.0
+numpy==2.4.1
+scikit-learn==1.8.0
+scipy==1.17.0
+
+# Visualization
+matplotlib==3.10.8
+
+# UCI Dataset
+ucimlrepo==0.0.7
+
+# Jupyter (if needed for development)
+jupyter==1.1.1
+notebook==7.5.2
+jupyterlab==4.5.3
+ipykernel==7.1.0
